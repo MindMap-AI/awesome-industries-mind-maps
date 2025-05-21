@@ -1,4 +1,4 @@
-# Awesome Industries Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# [Awesome Industries Mind Maps](https://mindmapai.app/mind-maps/industries) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Drive industrial growth and innovation with project management and mind maps AI to streamline operations, track progress, and adapt to change. Mind maps AI empowers industries to visualize workflows, enhance efficiency, and implement sustainable practices for long-term success.
 
